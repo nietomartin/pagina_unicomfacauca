@@ -1,1 +1,1 @@
-P gina de ejemplo para explicar el manejo de Git 
+PÃ¡gina de ejemplo para explicar el manejo de Git 
